@@ -1,5 +1,5 @@
 -oeuf
-carotte
+carote
 -lait
 -sucre
 -farine
