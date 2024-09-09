@@ -1,4 +1,5 @@
--oeuf
+-oeufs
 -lait
+-sucre
 -farine
 -fraise
