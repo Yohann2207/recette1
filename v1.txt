@@ -1,6 +1,7 @@
 -oeuf
-carote
+-carote
 -lait
 -sucre
 -farine
 -fraise
+-canelle
